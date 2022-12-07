@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(175, 179, 187);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    height: 600px;
+   
+}
+
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+    font-family: 'Solway', serif;
+    color: rgb(255, 255, 255);
+}
+
+.fonte-titulo-meio {
+    font-family: 'Pacifico', cursive;
+    font-family: 'Solway', serif;
+    color: rgb(0, 0, 0);
+}
+
+.construcao {
+    margin-left: 200px;
+    object-fit: cover;
+    height: 250px;
+}
+
+footer {
+	text-align: center;
+	padding: 40px;
+}
+
